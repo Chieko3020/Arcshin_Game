@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/peach.png</file>
+        <file>res/ranka.png</file>
+        <file>res/rankb.png</file>
+        <file>res/rankc.png</file>
+        <file>res/bg2.png</file>
+        <file>res/title.ico</file>
+        <file>res/empty.png</file>
+        <file>res/hkr.png</file>
+        <file>res/gemstone.png</file>
+        <file>res/bg.png</file>
+        <file>res/arrow.png</file>
+        <file>res/starstone.png</file>
+        <file>res/A.png</file>
+        <file>res/B.png</file>
+        <file>res/C.png</file>
+        <file>res/cnt.png</file>
+        <file>res/again.png</file>
+        <file>res/exit.png</file>
+        <file>res/qry.png</file>
+        <file>res/cal.png</file>
+        <file>res/bgm.mp3</file>
+        <file>res/timer.png</file>
+        <file>res/play.png</file>
+        <file>res/setting.png</file>
+        <file>res/help.png</file>
+        <file>res/setbg.png</file>
+        <file>res/SpinBox.png</file>
+        <file>res/gs.png</file>
+        <file>res/ss.png</file>
+        <file>res/home.png</file>
+        <file>res/volume.png</file>
+        <file>res/quit.png</file>
+        <file>res/help.jpg</file>
+        <file>res/cursor.png</file>
+        <file>res/volume_close.png</file>
+        <file>res/pause.png</file>
+    </qresource>
+</RCC>
